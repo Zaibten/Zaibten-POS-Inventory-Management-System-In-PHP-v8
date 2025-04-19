@@ -9,7 +9,7 @@
   <img src="https://user-images.githubusercontent.com/5265663/162700085-40ed00ca-9154-42cb-850a-ccf1c2db2d5d.png" alt="Zaibten POS"/>
 </p>
 
-**Zaibten POS** is a free Point-of-Sale (POS) system built using **Laravel**, **TailwindCSS**, **Vue.js**, and other modern technologies. It is designed to provide businesses with the tools they need for efficient inventory and sales management. Zaibten POS offers a responsive, user-friendly dashboard that works seamlessly across smartphones, tablets, and desktops.
+**Zaibten POS** is a free Point-of-Sale (POS) system built using **Laravel**, **TailwindCSS**, **Vue.js**, and other modern technologies. It is designed to provide businesses with the tools they need for efficient inventory and sales management. Zaibten POS offers a responsive, user-friendly dashboard that works seamlessly across smartphones and tablets.
 
 ---
 
