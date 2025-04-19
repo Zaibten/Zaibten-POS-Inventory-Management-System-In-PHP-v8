@@ -105,4 +105,4 @@ NS_ENV=dev
 
 ---
 
-Let me know if you'd also like to update links (e.g. `nexopos.com` → `zaibten.com`) or if you'd like the logo/image replaced as well.
+Let me know if you'd also like to update links (e.g. `zaibten.com`) or if you'd like the logo/image replaced as well.
